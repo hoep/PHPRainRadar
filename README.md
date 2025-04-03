@@ -1,5 +1,6 @@
 # PHPRainRadar
-![grafik](https://github.com/user-attachments/assets/7d186953-9add-4b13-9007-72bee77c6415)
+![grafik](https://github.com/user-attachments/assets/70e45013-7f56-40b1-a3bd-99b2e3474563)
+
 
 ## Übersicht
 
