@@ -5,7 +5,6 @@
 Die `WeatherRadar`-Klasse ist ein leistungsstarkes PHP-Tool zur Darstellung und Auswertung von Wetterradardaten. Sie ermöglicht das Herunterladen, Verarbeiten und Visualisieren von Regenradardaten mit automatischer Erkennung von Niederschlagsintensitäten und bietet verschiedene Ausgabeformate inklusive animierter GIFs und HTML-Vorhersagetabellen.
 
 **Version:** 2.3.7  
-**Autor:** Claude  
 **Datum:** 2025-04-03
 
 ## Funktionen
